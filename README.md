@@ -2,7 +2,7 @@
 
 ```js
 // Is the card number valid?
-var card = '6123451234567893';
+var card = '5138715843522969';
 
 luhn(true, pan);	// true
 
